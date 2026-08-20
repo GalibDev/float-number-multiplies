@@ -15,4 +15,4 @@ sum=A1*A2;
 
 
   printf("multiples of A1 and A2=%f\n",sum);
-updated
+updated.....
